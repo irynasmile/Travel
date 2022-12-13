@@ -1,4 +1,4 @@
-/* @media (max-width: 1500px) {
+@media (max-width: 1500px) {
 	.featured__stories {
 		padding: 80px 60px;
 	}
@@ -404,4 +404,4 @@
 	.footer__bottom {
 		padding-bottom: 0;
 	}
-} */
+}
