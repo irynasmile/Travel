@@ -1,0 +1,22 @@
+@import '_normalize.css';
+@import '_fonts.css';
+/* libs style */
+/* @import './components/_slider.css'; */
+@import '_vendor.css';
+
+@import '_variables.css';
+@import '_global.css';
+@import '_common.css';
+
+/* components imports */
+@import './components/_header.css';
+@import './components/_hero.css';
+@import './components/_become.css';
+@import './components/_featured.css';
+@import './components/_featured-video.css';
+@import './components/_newsletter.css';
+/* @import "./components/_newsletter.css"; */
+/* @import "./components/_insp.css"; */
+/* @import "./components/_footer.css"; */
+
+/* @import "_media.css"; */

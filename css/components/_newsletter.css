@@ -1,0 +1,22 @@
+.newsletter {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.newsletter__content {
+  background-image: url(../../img/newsletter-cover.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 660px;
+}
+
+.input {
+  height: 13px;
+  font-family: 'SFProDisplay';
+  font-size: 11px;
+  line-height: 118%;
+
+  text-align: center;
+  letter-spacing: 2px;
+  color: var(--dark-color);
+}

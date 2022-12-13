@@ -1,0 +1,15 @@
+:root {
+  --white-color: #fff;
+  --black-color: #000;
+  --dark-color: #1c2e3d;
+  --accent-color: rgb(232, 89, 78);
+
+  --neptune-color: #73afba;
+  --accent-hover-color: #e31d0e;
+  --neptune-hover-color: #4196a6;
+
+  --secondary-fonts: 'SFCompact', sans-serif;
+
+  /* swiper */
+  /* --swiper-navigation-size: 224px; */
+}
